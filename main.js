@@ -12,5 +12,3 @@ mobileMenuButton.addEventListener("click", function () {
     mobileMenu.classList.add("hidden");
   }
 });
-
-
